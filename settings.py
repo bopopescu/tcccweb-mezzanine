@@ -231,8 +231,8 @@ TEMPLATE_DIRS = (os.path.join(PROJECT_ROOT, "templates"),)
 ################
 
 INSTALLED_APPS = (
-    'mezzanine_themes.tccc_default',
-    # 'mezzanine_themes.flat',
+    # 'mezzanine_themes.tccc_default',
+    'mezzanine_themes.flat',
     # "mezzanine_themes.moderna",
     # "mezzanine_themes.nova",
     # "mezzanine_themes.solid",
